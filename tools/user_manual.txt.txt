@@ -1,0 +1,45 @@
+Steps to run the code - 3D analysis:
+ 
+1- Create a new folder in your drive "C:\" and change its name to "Code"
+ 
+2- Copy all provided files in "C:\Code"
+ 
+3- Install MATLAB software
+ 
+4- Open MATLAB software and change the current directory to "C:\Code"
+ 
+5- Prepare 3D X-ray images of one rock sample as mat file format 
+
+   which is supported in Matlab  and copy the file in "C:\Code"
+
+6- Open "Run3D.m" and enter the name of mat file 
+
+7- Run "Run3D.m" file in MATLAB
+ 
+8- This code outputs another mat file 
+
+   where 1st and 2nd column include distance between two points and mu value. 
+
+
+Steps to run the code - 2D analysis:
+ 
+1- Create a new folder in your drive "C:\" and change its name to "Code"
+ 
+2- Copy all provided files in "C:\Code"
+ 
+3- Install MATLAB software
+ 
+4- Open MATLAB software and change the current directory to "C:\Code"
+ 
+5- Prepare 2D sliced X-ray image of one rock sample as png image format
+
+   and copy the file in "C:\Code"
+
+6- Open "Run2D.m" and enter the name of png image 
+
+7- Run "Run2D.m" file in MATLAB
+ 
+8- This code outputs another mat file 
+
+   where 1st and 2nd column include distance between two points and mu value. 
+ 
